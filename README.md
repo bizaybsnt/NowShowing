@@ -1,6 +1,6 @@
 # NowShowing
 
-An Expree nodejs app that fetch nowShowing api and display it on a calender
+An Express nodejs app that fetch nowShowing api and display it on a calender
 
 ## Getting started
 
